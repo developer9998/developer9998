@@ -1,6 +1,9 @@
-# developer9998
- boo.
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer9998)](https://github.com/anuraghazra/github-readme-stats)            
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer9998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# hi, im dev
+im just some random 15 year old on the internet that programs mods for a silly gorilla game.  
+i do other stuff like draw and manage a discord server but without going deep into personal stuffs thats about it.
 
+[![_youtube](https://img.shields.io/youtube/channel/subscribers/UCd6vzgmTUrtE4tZl93NpPOA?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
+[![_twitter](https://img.shields.io/twitter/follow/Developer9998?logo=twitter&color=informational&style=for-the-badge)][twitter]
+
+[twitter]: https://twitter.com/Developer9998
+[youtube]: https://www.youtube.com/channel/UCkvBnJecNebF38fKFLjPFhw
