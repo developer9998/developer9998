@@ -1,10 +1,5 @@
-# hi, im dev
-im just some random 15 year old on the internet that programs mods for a silly gorilla game.  
-i do other stuff like draw and manage a discord server but without going deep into personal stuffs thats about it.
+# dev9998
+hi!! i'm dev. i just do random stuff on the internet, mainly C# modding for gorilla tag.   
+i run a server with over 3K members and a tiktok with over 11K followers, so i'm pretty well known.
 
-![status](https://dev.discordprofiles.me/badge/status/792064774837239828?simple=true)    
-[![_youtube](https://img.shields.io/youtube/channel/subscribers/UCkvBnJecNebF38fKFLjPFhw?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
-[![_twitter](https://img.shields.io/twitter/follow/Developer9998?logo=twitter&color=informational&style=for-the-badge)][twitter]
-
-[twitter]: https://twitter.com/Developer9998
-[youtube]: https://www.youtube.com/channel/UCkvBnJecNebF38fKFLjPFhw
+im still updating this page, so more will arrive soon here
