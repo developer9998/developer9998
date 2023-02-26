@@ -1,5 +1,5 @@
-# dev9998
-hi!! i'm dev. i just do random stuff on the internet, mainly C# modding for gorilla tag.   
-i run a server with over five thousand members and a tiktok with over twelve thousand followers, so i'm pretty well known.
-
-im still updating this page, so more will arrive soon here
+Hiya, I'm dev!
+### About Me
+- I go by They/Them pronouns, I'm 14 and I'm Asexual.
+- I program in C# most the time, mainly for Gorilla Tag mods.
+- I run a Discord server with 7 thousand members.
