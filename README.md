@@ -1,6 +1,6 @@
 ## Hiya, I'm Dev!
-- GT Content Creator
-- Creator of HoldablePad & GorillaShirts
+- "Gorilla Tag" content and mod creator
+- Creator of "GorillaShirts" and "HoldablePad"
 
 #### Knowledge
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
