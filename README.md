@@ -1,5 +1,15 @@
-## Dev (developer9998)
 Hiya! I'm an aspired gamedev who creates silly projects in Unity occasionally.
+
+![Dev's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer9998)
+
+## Creations
+Here are some of my well-known creations:
+
+- **HoldablePad**   
+  A mod for the Virtual Reality game Gorilla Tag for creating your own customized holdables for the game.<br>
   
-[![Dev's Github Stats](https://github-readme-stats.vercel.app/api?username=developer9998&show_icons=true&card_width=1000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Dev's Github Stats](https://github-readme-stats.vercel.app/api?username=developer9998&show_icons=true&card_width=1000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+- **GorillaShirts**   
+  A mod for the Virtual Reality game Gorilla Tag for creating your own customized shirt cosmetics for the game.<br>
+
+- **DevMinecraftMod**
+  A mod for the Virtual Reality game Gorilla Tag which is for building your own creations using Minecraft blocks.
