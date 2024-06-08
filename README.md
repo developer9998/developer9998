@@ -1,5 +1,4 @@
-## Hiya, I'm Dev!
-I'm an intermediate programmer from Canada, with a passion for creating and modding games. 
-<hr>
+### Hiya, I'm dev!
+I'm a programmer and modding enthusiast from Canada! 
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" width=40% height=auto>
