@@ -1,4 +1,3 @@
-### Hiya, I'm dev!
-I'm a programmer and modding enthusiast from Canada! 
+howdyǃ i'm a canadian programmer ＆ amateur artist
 
-<img src="/github-metrics.svg" width=40% height=auto>
+<img src="/github-metrics.svg" width=400px height=auto>
