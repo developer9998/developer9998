@@ -2,7 +2,7 @@
 
 I'm an aspired developer from Canada most known for my [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/) mods like [GorillaShirts](https://github.com/developer9998/GorillaShirts) and [GorillaInfoWatch](https://github.com/developer9998/GorillaInfoWatch).
 
-Avatar made by Discord user "crowfood.art" - please go support her work!
+Avatar made by Discord user "crowfood.art" - please go support their work!
 
 <h4>Tech Stack</h4>
 
