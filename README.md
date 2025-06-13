@@ -18,4 +18,4 @@ I'm an aspired developer from Canada most known for my [Gorilla Tag](https://sto
 
 <h4>Statistics</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=developer9998&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sup>Last updated: June 2025</sup>
+<img src="https://github-readme-stats.vercel.app/api?username=developer9998&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sub>Last updated: June 2025</sub>
