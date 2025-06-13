@@ -7,12 +7,14 @@ I'm an aspired developer from Canada most known for my [Gorilla Tag](https://sto
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-<h4>Discord</h4>
+<h4>Social Media</h4>
 
-Find me active on my personal Discord server: https://discord.com/invite/devsinternetcafe
-
-If you're looking for moddedd content: https://discord.com/invite/dev9998
+<a href="https://www.youtube.com/@developer9998"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<a href="https://discord.com/users/792064774837239828"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
+<a href="https://www.last.fm/user/dev9998"><img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561199133184705"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"></a>
 
 <h4>Statistics</h4>
 
