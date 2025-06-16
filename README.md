@@ -11,7 +11,7 @@ Avatar made by Discord user "crowfood.art" - please go support their work!
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-<sup>**Using:**</sup><br>
+<sup>**Using**</sup><br>
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
@@ -19,10 +19,16 @@ Avatar made by Discord user "crowfood.art" - please go support their work!
 
 <h4>Connections</h4>
 
+<sup>**Social Media**</sup><br>
 <a href="https://www.youtube.com/@developer9998"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 <a href="https://discord.com/users/792064774837239828"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
+
+<sup>**Music**</sup><br>
 <a href="https://www.last.fm/user/dev9998"><img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561199133184705"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31dw2jc5jexup7zawulubfxjipuy"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
+
+<sup>**Gaming**</sup><br>
+<a href=""><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"></a>
 
 <h4>Statistics</h4>
 
