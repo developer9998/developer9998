@@ -1,7 +1,1 @@
-<h3>Howdy!</h3>
-
-My name is Dane, though most people refer to me by my alias, dev9998.
-
-I am a proud non-binary Canadian that goes by They/Them pronouns.
-
-I'm an aspired computer programmer and beginner artist who is most known for Unity development and mod creation.
+<img width="1600" height="400" alt="patreon banner" src="https://github.com/user-attachments/assets/42f722b8-2335-4e85-9746-6940d7c50bc9" />
